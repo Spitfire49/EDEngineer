@@ -2506,14 +2506,14 @@
     "Unknown Ship Signature": {
       "es": "Señal de nave desconocida",
       "de": "Unbekannte Schiffsignatur",
-      "fr": null,
+      "fr": "Signature du vaisseau inconnue",
       "ru": "Данные сигнала НЛО",
       "pl": "Unknown Ship Signature"
     },
     "Unknown Wake Data": {
       "es": "Datos de estela desconocida",
       "de": "Unbekannte Sogwolke",
-      "fr": null,
+      "fr": "Données de sillage inconnue"",
       "ru": "Данные следа НЛО",
       "pl": "Unknown Wake Data"
     },
@@ -2534,7 +2534,7 @@
     "Configure Thresholds": {
       "es": null,
       "de": "Schwellwert einstellen",
-      "fr": null,
+      "fr": "Configurer les Seuils",
       "ru": "Изменение ограничений",
       "pl": "Skonfiguruj wartości progowe"
     },
@@ -2548,7 +2548,7 @@
     "Kind": {
       "es": null,
       "de": "Art",
-      "fr": null,
+      "fr": "Genre",
       "ru": "Вид",
       "pl": "Rodzaj"
     },
@@ -2562,7 +2562,7 @@
     "Apply threshold to selected items:": {
       "es": null,
       "de": "Schwellwert auf die Auswahl anwenden",
-      "fr": null,
+      "fr": "Applique le seuil à l'objet sélectionné",
       "ru": "Применить ограничения к выбранным пунктам:",
       "pl": "Zastosuj wartość progową do wybranych:"
     },
@@ -2611,7 +2611,7 @@
     "Reached {0} {1} - threshold set at {2}": {
       "es": null,
       "de": "Erreicht wurde {0} {1} - Schwellwert gesetzt auf {2}",
-      "fr": null,
+      "fr": "Atteint {0} {1} - Seuil réglé à {2},
       "ru": "Достигнуто {0} {1} - ограничение установленное на {2}",
       "pl": "Osiągnięto {0} {1} - próg ustawiony na {2}"
     },
@@ -2632,14 +2632,14 @@
     "Multiple Blueprints Ready": {
       "es": null,
       "de": "verschiedene Baupläne fertig",
-      "fr": null,
+      "fr": "Plusieurs plan sont disponibles",
       "ru": "Готово несколько чертежей",
       "pl": "Wiele schematów gotowych do stworzenia"
     },
     "{0} blueprints are available to craft!": {
       "es": null,
       "de": "{0} Baupläne stehen zur Herstellung zur Verfügung!",
-      "fr": null,
+      "fr": "{0} Plans sont disponibles à la fabrication!",
       "ru": "Можно создать {0} чертежей!",
       "pl": "Można stworzyć {0} schematów!"
     },
@@ -2653,168 +2653,168 @@
     "Surface Scanner": {
       "es": null,
       "de": "Oberflächen-Scanner",
-      "fr": null,
+      "fr": "Scanner de Surface",
       "ru": "Сканер поверхности",
       "pl": "Surface Scanner"
     },
     "Wake Scanner": {
       "es": null,
       "de": "Sogwolkenscanner",
-      "fr": null,
+      "fr": "Scanner de Sillage FSD",
       "ru": "Сканер следа",
       "pl": "Wake Scanner"
     },
     "Last update: ": {
       "es": null,
       "de": "letzte Aktualisierung",
-      "fr": null,
+      "fr": "Dernière Mise à Jour",
       "ru": "Последнее обновление: ",
       "pl": "Ostatnia aktualizacja:"
     },
     "Silent Launch": {
       "es": null,
       "de": "Start minimiert",
-      "fr": null,
+      "fr": "Lancement Silencieux",
       "ru": "Скрытый запуск",
       "pl": "Ciche uruchomienie"
     },
     "Search visible blueprints (by Type, Name, Grade or Engineer) - split your terms with a space for multi-criteria search": {
       "es": null,
       "de": "Suche nach verfügbaren Bauplänen (Begriffe durch 'Leerzeichen' trennen)",
-      "fr": null,
+      "fr": "Rechercher des plans visibles (par Type, Noms, Grade ou Ingénieurs) - séparez les termes avec un espace pour une recherche multi-crotères", 
       "ru": "Поиск видимых чертежей (по Типу, Названию, Уровню или Инженеру) - введите условия через пробел для использования нескольких критериев сортировки",
       "pl": "Przeszukaj widoczne schematy (po Typie, Nazwie, Poziomie lub nazwie Inżyniera) - oddziel terminy przy użyciu spacji by wyszukiwać za pomocą wielokrotnych kryterii"
     },
     "Configure Notifications": {
       "es": null,
       "de": "Benachrichtigung Konfigurieren",
-      "fr": null,
+      "fr": "Configurer les Notifications",
       "ru": "Настройка оповещений",
       "pl": "Skonfiguruj powiadomienia"
     },
     "Notifications": {
       "es": null,
       "de": "Benachrichtigung",
-      "fr": null,
+      "fr": "Notifications",
       "ru": "Оповещения",
       "pl": "Powiadomienia"
     },
     "Test Notification": {
       "es": null,
       "de": "Test-Benachrichtigung",
-      "fr": null,
+      "fr": "Notification de test",
       "ru": "Проверка оповещения",
       "pl": "Próbne powiadomienie"
     },
     "Toast": {
       "es": null,
       "de": "Toast",
-      "fr": null,
+      "fr": "Grillé",
       "ru": null,
       "pl": "Pop-up"
     },
     "Voice": {
       "es": null,
       "de": "Stimme",
-      "fr": null,
+      "fr": "Voix",
       "ru": "Голос",
       "pl": "Głos"
     },
     "Long Range Scanner": {
       "es": null,
       "de": "Langstrecken-Scanner",
-      "fr": null,
+      "fr": "Scanner Longue Portée",
       "ru": "Сканер увеличенной дальности",
       "pl": "Long Range Scanner"
     },
     "Wide Angle Scanner": {
       "es": null,
       "de": "Weitwinkel-Scanner",
-      "fr": null,
+      "fr": "Scanner Grand Angle",
       "ru": "Широкоугольный сканер",
       "pl": "Wide Angle Scanner"
     },
     "Light Weight Scanner": {
       "es": null,
       "de": "Leichter Scanner",
-      "fr": null,
+      "fr": "Scanner Ultraléger",
       "ru": "Облегченный сканер",
       "pl": "Light Weight Scanner"
     },
     "Fast Scanner": {
       "es": null,
       "de": "Schneller Scanner",
-      "fr": null,
+      "fr": "Scanner Rapide",
       "ru": "Быстрый сканер",
       "pl": "Fast Scanner"
     },
     "Unlock": {
       "es": null,
       "de": "Freischalten",
-      "fr": null,
+      "fr": "Dévérouiller",
       "ru": "Разблокировать",
       "pl": "Odblokowanie"
     },
     "Available Voices:": {
       "es": null,
       "de": "verfügbare Stimmen",
-      "fr": null,
+      "fr": "Voix Disponibles",
       "ru": "Доступные голоса:",
       "pl": "Dostępne głosy:"
     },
     "filtered entries - click this to clear": {
       "es": null,
       "de": "Gefilterte Einträge - Klick HIER um zu Löschen",
-      "fr": null,
+      "fr": "Entrées Filtrées - Cliquez ici pour effacer",
       "ru": null,
       "pl": null
     },
     "Unknown Material Composition Data": {
       "es": null,
       "de": null,
-      "fr": null,
+      "fr": "Données de composition de matériaux inconnues",
       "ru": null,
       "pl": null
     },
     "Unknown Residue Data Analysis": {
       "es": null,
       "de": null,
-      "fr": null,
+      "fr": "Données Résiduelles d'analyse inconnues",
       "ru": null,
       "pl": null
     },
     "Unknown Structural Data": {
       "es": null,
       "de": null,
-      "fr": null,
+      "fr": "Données structurelles inconnues",
       "ru": null,
       "pl": null
     },
     "Unknown Carapace": {
       "es": null,
       "de": null,
-      "fr": null,
+      "fr": "Carapace inconnue",
       "ru": null,
       "pl": null
     },
     "Unknown Energy Cell": {
       "es": null,
       "de": null,
-      "fr": null,
+      "fr": "Cellule d'énergie inconnue",
       "ru": null,
       "pl": null
     },
     "Unknown Organic Circuitry": {
       "es": null,
       "de": null,
-      "fr": null,
+      "fr": "Circuit organique Inconnu",
       "ru": null,
       "pl": null
     },
     "Unknown Technology Components": {
       "es": null,
       "de": null,
-      "fr": null,
+      "fr": "Composants technologiques inconnus",
       "ru": null,
       "pl": null
     }
